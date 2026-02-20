@@ -25,6 +25,12 @@
 - 📊 **PPT / Documentation:** [Google Drive Link]
 - 🧠 **ONNX Model:** [Drive Download Link]
 - 📂 **Complete Project Folder:** [Full Access Drive Link]
+- 🎥 **Full Demo Presentation (Project Explanation + Live Run)**  
+▶️ [Watch Demo Video](https://drive.google.com/drive/folders/1rJ325TF-5vxMDhW4gcm3hYMPu8KR3XgR?usp=sharing)
+
+📹 **Sample Model Output (Real-Time Detection on ARM Device)**  
+▶️ [Watch Sample Output](https://your-sample-link-here)
+
 
 ---
 

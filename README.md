@@ -1,67 +1,20 @@
-# 🚀 Edge AI Road Anomaly Detection
-
-<div align="center">
-
-<svg width="100%" height="200" viewBox="0 0 1000 200"
-     xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <linearGradient id="armGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff006e"/>
-      <stop offset="50%" stop-color="#00f5d4"/>
-      <stop offset="100%" stop-color="#3a86ff"/>
-    </linearGradient>
-
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <style>
-      .armText {
-        font-size: 160px;
-        font-weight: bold;
-        fill: url(#armGrad);
-        filter: url(#glow);
-        animation: pulse 2s infinite;
-      }
-
-      @keyframes pulse {
-        0% { opacity: 1; }
-        50% { opacity: 0.4; }
-        100% { opacity: 1; }
-      }
-    </style>
-  </defs>
-
-  <text x="50%" y="130" text-anchor="middle" class="armText">
-    ARM
-  </text>
-
-</svg>
-
-</div>
-
----
+# 🚗 Edge AI Road Anomaly Detection
 
 <p align="center">
   <img src="https://img.shields.io/badge/YOLOv8-Nano-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ONNX-Optimized-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/INT8-Quantized-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ARM-CPU--Only-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Real--Time-Edge--Deployment-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RaspberryPi-4-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Edge-AI-black?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🏆 Edge AI Deployment Project
+## 🏆 🏆 Edge AI Deployment Project
 
-> 🚗 Real-Time Road Anomaly Detection from Dashcam Footage  
-> ⚙ Optimized for ARM-Based Edge Devices  
-> 🧠 YOLOv8 Nano + ONNX + INT8 Quantization  
+<p align="center">
+<b>Data → YOLOv8 Nano → ONNX → Edge AI Deployment</b>
+</p>
 
 ---
 

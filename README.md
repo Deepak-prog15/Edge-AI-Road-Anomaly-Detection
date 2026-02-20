@@ -361,9 +361,20 @@ The system prioritizes reliability by reducing false detections while maintainin
  ---
 
 
+---
 
-## 📜 Conclusion
+## ✅ Conclusion
 
-This project demonstrates that real-time road hazard detection can be achieved on affordable embedded hardware using intelligent optimization techniques rather than expensive GPU infrastructure.
+This project demonstrates a complete end‑to‑end Edge AI pipeline for real‑time road anomaly detection using a lightweight YOLOv8 Nano model optimized for ARM-based CPU-only deployment.
 
-It provides a scalable and practical solution for unstructured road environments.
+By leveraging ONNX Runtime and INT8 quantization, the system achieves near real‑time performance (≥5 FPS) on embedded hardware while maintaining reliable detection accuracy. Confidence threshold tuning reduces false logging, improving practical usability in real-world driving conditions.
+
+The solution highlights:
+
+- ⚡ Efficient CPU‑only inference on ARM devices  
+- 🎯 Balanced precision–recall performance  
+- 📊 Structured CSV-based anomaly logging  
+- 🚗 Real-time dashcam-based monitoring  
+- 🔧 Deployment-ready architecture  
+
+This implementation demonstrates how deep learning models can be successfully deployed in constrained edge environments without external accelerators.

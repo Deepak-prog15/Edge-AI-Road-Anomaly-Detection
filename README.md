@@ -39,10 +39,11 @@
 
 - 📦 `models/` → ONNX & INT8 Model Files  
 - 📝 `logs/` → Sample CSV Detection Logs   
-- 🎬 `sample_predictions/` → Model Predictions on Sample Footage  
+- 🎬 `logged_images/` → images detected by a model  
 - ⚙ `inference.py` → ONNX Runtime Inference Script  
 
 ---
+
 ## 📌 Overview
 
 This project presents a real-time **Edge AI-based Road Anomaly Detection System** designed for on-device execution using Raspberry Pi 4 (CPU-only).

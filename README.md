@@ -143,7 +143,7 @@ A lightweight YOLOv8 Nano architecture was selected due to:
 ## 🏗 Proposed System Architecture
 
 <p align="center">
-  <img src="architecture.png" width="900">
+  <img src="assets/architecture.png" width="900">
 </p>
 
 ### 🏗 Architecture Description

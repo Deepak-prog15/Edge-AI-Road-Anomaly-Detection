@@ -21,12 +21,15 @@
 
 ## 🔗 Quick Access
 
-- 📁 **Dataset:** [Google Drive Link](https://drive.google.com/xxxx)
-- 📊 **PPT / Documentation:** [Google Drive Link](https://drive.google.com/xxxx)
+- 📁 **Dataset:** [Google Drive Link](https://drive.google.com/drive/folders/12zAo2jY0El0AJTJMG33J3Yd76F2EbB3P?usp=sharing)
+- 📊 **PDF:** [Google Drive Link](https://drive.google.com/xxxx)
 - 🧠 **ONNX Model:** [Drive Download Link](https://drive.google.com/drive/folders/1LulLHu_2og1u6O5SO1lwXlQh0j0Tu4Pf?usp=sharing)
 - 📦 **Complete Project Folder:** [Full Access Drive Link](https://drive.google.com/xxxx)
+  
+- ### 🎥 Full Demo Presentation
 ▶️ [Watch Demo Video](https://drive.google.com/drive/folders/1rJ325TF-5vxMDhW4gcm3hYMPu8KR3XgR?usp=sharing)
-- 📹 **Sample Model Output (Real-Time Detection on ARM Device)**  
+
+- 📹 **Sample Model Output (Real-Time Detection on ARM Device)**
 ▶️ [Watch Sample Output](https://drive.google.com/drive/folders/1-y20-uwxIQUpwHqq6mW28EHFbjHHxk9l?usp=sharing)
 
 

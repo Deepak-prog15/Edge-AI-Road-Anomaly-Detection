@@ -31,6 +31,12 @@
 
 - 📦 **Complete Project Folder:** [Full Access Drive Link](https://drive.google.com/drive/folders/1hY_H5LWZuIdFR8IeFZ2-AeNs0JMQ2aiv?usp=sharing)
 
+- 📊 **CSV Log File (Detection Records):** [View CSV Log](https://drive.google.com/drive/folders/1UrRmePvA4FMao4jTCiPbejraz7bmCgNZ?usp=sharing)
+
+- 🗂 **Logs Folder (All Logged Outputs):** [Open Logs Folder](https://drive.google.com/drive/folders/1Yh9E7-t0wR0Jugl3aZZtBEMi558iqs1p?usp=sharing)
+
+---
+
 ---
 
 ### 🎥 Full Demo Presentation  

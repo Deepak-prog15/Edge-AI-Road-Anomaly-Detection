@@ -38,8 +38,7 @@
 ## 📂 Repository Sections
 
 - 📦 `models/` → ONNX & INT8 Model Files  
-- 📝 `logs/` → Sample CSV Detection Logs  
-- 🎥 `demo_video/` → Final Demo Output  
+- 📝 `logs/` → Sample CSV Detection Logs   
 - 🎬 `sample_predictions/` → Model Predictions on Sample Footage  
 - ⚙ `inference.py` → ONNX Runtime Inference Script  
 

@@ -29,7 +29,7 @@
 ▶️ [Watch Demo Video](https://drive.google.com/drive/folders/1rJ325TF-5vxMDhW4gcm3hYMPu8KR3XgR?usp=sharing)
 
 📹 **Sample Model Output (Real-Time Detection on ARM Device)**  
-▶️ [Watch Sample Output](https://your-sample-link-here)
+▶️ [Watch Sample Output]([https://your-sample-link-here](https://drive.google.com/drive/folders/1-y20-uwxIQUpwHqq6mW28EHFbjHHxk9l?usp=sharing))
 
 
 ---
